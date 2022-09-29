@@ -2,7 +2,7 @@
 2 * SENAC - TADS - Programacao Web *
 3 * ADO #02 Trabalhando As Rotas e LINKS *
 4 * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*
-5 * Nome : Ana Laura Campoy & Thomas*
+5 * Nome : Ana Laura Campoy & Thomas Ferreira da Silva*
 6 * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*/
 
 
